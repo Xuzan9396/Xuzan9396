@@ -1,8 +1,6 @@
-### 😄 Hi there, I'm Aceld, Welcome~~ 👋
+### 😄 Hi there, I'm gitxuzan, Welcome~~ 👋
 
 <!--
-**aceld/aceld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -16,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Xuzan9396&theme=github)
+[![gitxuzan's stats](https://github-readme-stats.vercel.app/api?username=Xuzan9396)](https://github.com/Xuzan9396/github-readme-stats)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Xuzan9396&theme=github)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xuzan9396&theme=github)
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Xuzan9396&theme=github) -->
 
 
 
